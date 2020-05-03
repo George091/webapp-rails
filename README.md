@@ -10,3 +10,4 @@ Helpful links to look into more later:
 * https://guides.rubyonrails.org/active_record_validations.html
 * https://api.rubyonrails.org/v6.0.2.2/classes/ActionView/Helpers/FormHelper.html#method-i-form_with
 * https://guides.rubyonrails.org/layouts_and_rendering.html
+* https://guides.rubyonrails.org/working_with_javascript_in_rails.html
