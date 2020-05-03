@@ -1,6 +1,6 @@
 # README
 
-This is a personal project started and completed by following the official Getting Started Guide for Ruby on Rails guide (https://guides.rubyonrails.org/getting_started.html#creating-articles).
+This is a personal project started and completed by following the official Getting Started Guide for Ruby on Rails guide (https://guides.rubyonrails.org/getting_started.html).
 
 Helpful links to look into more later:
 
